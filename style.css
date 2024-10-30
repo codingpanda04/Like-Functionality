@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.like{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    align-items: center;
+    justify-content: center;
+    margin-top: 200px;
+}
+.like img{
+    width: 50px;
+    cursor: pointer;
+}
+.like span{
+    font-size: 24px;
+    font-family: fantasy;
+    margin-top: 10px;
+}
